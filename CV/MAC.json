@@ -1,0 +1,517 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pedro Antonio",
+      "surnames": "Luque López",
+      "title": "$Backend_Developer => [PHP | Java | Laravel | Angular | Spring Boot]",
+      "description": "Hi there! I'm Pedro Luque 👋  I'm a backend developer who mainly works with PHP and Laravel, as well as Python, Java, and Spring Boot. I love turning ideas into clean, functional code that not only works—but looks good under the hood.  I'm passionate about technology, programming, and photography, and I truly enjoy learning something new every day. If I don’t know how to do something, I learn it — that’s how I keep up in this fast-changing world.  Before becoming a developer, I worked in other industries, which taught me valuable soft skills that you can’t always get from a coding course: teamwork, discipline, and empathy. Today, I apply all of that to the way I code and collaborate.  I’m someone who gives 100%, never settles easily, and constantly seeks to improve every line of code. Perfectionist? Maybe. But only because I’m passionate about what I do.  If you’d like to talk about technology, exciting projects, or just share a virtual coffee ☕️ — I’d be happy to connect.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/03/09/f5a1195b-f699-473b-b84a-aff5484e1af5_autorretrato-comprim.jpg",
+        "alt": "Autorretrato-Comprimido.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJf4yS1fiBYw0RmqvEOJsSJ9Y)",
+        "country": "España",
+        "region": "Región de Murcia",
+        "municipality": "Murcia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pedro-antonio-luque/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/RichterX"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "WalkMaze"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "startDate": "2025-08-01",
+            "challenges": [
+              {
+                "description": "Development and maintenance of a custom CRM and other internal applications for commercial and operational management. Implementation of secure and efficient RESTful APIs, integrating modules with external services and relational databases. Writing unit and functional tests to ensure software quality and stability with PHPUnit. Optimization of backend processes and code refactoring to improve performance and maintainability. Active participation in international team meetings with Scrum. Close collaboration with frontend and QA teams to ensure consistent and error-free deliveries. Use of version control tools (Git) and continuous deployment (CI/CD)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ApplicationCare Group"
+        },
+        "roles": [
+          {
+            "name": "Junior Backend Developer",
+            "startDate": "2024-02-01",
+            "finishDate": "2025-08-01",
+            "challenges": [
+              {
+                "description": "Development and maintenance of a custom CRM and other internal applications for commercial and operational management. Implementation of secure and efficient RESTful APIs, integrating modules with external services and relational databases. Writing unit and functional tests to ensure software quality and stability with PHPUnit. Optimization of backend processes and code refactoring to improve performance and maintability. Active participation in international team meetings with Scrum. Close collaboration with frontend and QA teams to ensure consistent and error-free deliveries. Use of version control tools (Git) and continuous deployment (CI/CD)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PcComponentes"
+        },
+        "roles": [
+          {
+            "name": "Tecnico de equipos electrónicos de consumo - IT Support Technician",
+            "startDate": "2016-11-01",
+            "finishDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "Reparación de todo tipo de aparatos electrónicos de consumo (smartphones, tablets, PCs, portátiles)... Ayuda a clientes a través de la plataforma Zendesk."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Poysky Productions S.L. - Quadro Delta Spain"
+        },
+        "roles": [
+          {
+            "name": "Diseñador Gráfico",
+            "startDate": "2014-09-01",
+            "finishDate": "2014-12-01",
+            "challenges": [
+              {
+                "description": "Encargado de diseño gráfico en un videojuego. El proyecto fue cancelado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ronimo Games"
+        },
+        "roles": [
+          {
+            "name": "Ayudante Localización ",
+            "startDate": "2014-08-01",
+            "finishDate": "2014-12-01",
+            "challenges": [
+              {
+                "description": "Ayuda en la localización a Español del videojuego Swords & Soldiers II de Ronimo Games. Más abajo se puede ver en los créditos del juego."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ronimo Games"
+        },
+        "roles": [
+          {
+            "name": "Ayudante Localización",
+            "startDate": "2013-11-01",
+            "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": "Ayuda en la localización del videojuego Awesomenauts al español. Más abajo se puede comprobar mi nombre en el equipo de localización al español (min 1:46)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Eurogranizados"
+        },
+        "roles": [
+          {
+            "name": "Responsable de Logística",
+            "startDate": "2011-04-01",
+            "finishDate": "2014-01-01",
+            "challenges": [
+              {
+                "description": "Responsable en muelle. Carga-descarga de camiones, inventario, administración del muelle, documentación y gestión."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Prom. Y Construcciones Luqtínez"
+        },
+        "roles": [
+          {
+            "name": "Gerencia y gestión administrativa",
+            "startDate": "2005-03-01",
+            "finishDate": "2010-10-01",
+            "challenges": [
+              {
+                "description": "Administración y gestión del personal, así como la administración documental de la empresa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Construcciones Francisco Martínez López"
+        },
+        "roles": [
+          {
+            "name": "Administrativo - Peón Albañil",
+            "startDate": "2003-11-01",
+            "finishDate": "2005-01-01",
+            "challenges": [
+              {
+                "description": "Peonaje general y administración de la documentación de la empresa."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FlexBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sentry",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zendesk",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Beta Tester",
+        "startDate": "2013-01-01",
+        "institution": {
+          "name": "FLAS ENTERTAINMENT S.L - Gametopia Learning"
+        },
+        "finishDate": "2013-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Curso intensivo Fullstack",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "Nunsys"
+        },
+        "finishDate": "2024-05-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "IES Alfonso X el Sabio"
+        },
+        "finishDate": "2024-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Educación Secundaria Obligatoria",
+        "startDate": "1997-01-01",
+        "institution": {
+          "name": "I.E.S Alquibla"
+        },
+        "finishDate": "2003-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico en Gestión Administrativa",
+        "startDate": "2003-01-01",
+        "institution": {
+          "name": "I.E.S. Ingeniero de la Cierva"
+        },
+        "finishDate": "2004-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/pedro-antonio-luque/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/RichterX",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ]
+  }
+}
