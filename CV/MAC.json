@@ -516,6 +516,12 @@
           "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Tolerancia a la incertidumbre",
+          "type": "practice"
+        }
       }
     ]
   },
