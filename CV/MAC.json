@@ -463,6 +463,10 @@
           "type": "technology"
         },
         {
+          "name": "Electron",
+          "type": "technology"
+        },
+        {
           "name": "Laravel",
           "type": "technology"
         },
