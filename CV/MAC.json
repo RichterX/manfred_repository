@@ -43,6 +43,11 @@
           {
             "name": "Fullstack Developer",
             "startDate": "2025-10-01",
+            "challenges": [
+              {
+                "description": "Development, maintenance, and continuous improvement of a custom CRM and internal business applications using PHP, Laravel, Vue.js, and relational databases.\n\nDesign and implementation of secure, scalable RESTful APIs, including integrations with external services and optimization of backend processes.\n\nDaily use of AI-assisted development tools to accelerate coding, troubleshoot complex issues, improve software architecture, refactor legacy code, and enhance overall productivity and code quality.\n\nImplementation of unit and functional tests with PHPUnit to ensure application reliability, stability, and maintainability.\n\nActive participation in international Agile/Scrum teams, collaborating closely with frontend developers, QA engineers, and other stakeholders to deliver high-quality software.\n\nExperience with Git, CI/CD workflows, code reviews, and continuous improvement practices, with a strong focus on clean code, performance, and maintainable solutions."
+              }
+            ],
             "competences": [
               {
                 "name": "Laravel",
