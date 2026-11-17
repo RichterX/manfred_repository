@@ -42,9 +42,32 @@
           {
             "name": "Backend Developer",
             "startDate": "2025-08-01",
+            "finishDate": "2025-10-01",
             "challenges": [
               {
                 "description": "Development and maintenance of a custom CRM and other internal applications for commercial and operational management. Implementation of secure and efficient RESTful APIs, integrating modules with external services and relational databases. Writing unit and functional tests to ensure software quality and stability with PHPUnit. Optimization of backend processes and code refactoring to improve performance and maintainability. Active participation in international team meetings with Scrum. Close collaboration with frontend and QA teams to ensure consistent and error-free deliveries. Use of version control tools (Git) and continuous deployment (CI/CD)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
               }
             ]
           }
