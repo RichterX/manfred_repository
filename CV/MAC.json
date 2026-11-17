@@ -36,6 +36,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "ApplicationCare",
+          "URL": "https://www.applicationcare.net/en/"
+        },
+        "roles": [
+          {
+            "name": "Fullstack Developer",
+            "startDate": "2025-10-01",
+            "competences": [
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "WalkMaze"
         },
         "roles": [
