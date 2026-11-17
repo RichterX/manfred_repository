@@ -598,6 +598,7 @@
         "name": "Spring Boot",
         "type": "technology"
       }
-    ]
+    ],
+    "goodPractices": "Me gusta escribir código limpio, legible y mantenible, intentando aplicar buenas prácticas de desarrollo y respetar los principios de separación de responsabilidades, reutilización y simplicidad. Considero que un buen código no solo debe funcionar, sino que también debe ser fácil de entender, probar y mantener por otros desarrolladores.\n\nEn mi trabajo diario con PHP y Laravel, procuro aprovechar las herramientas y convenciones del framework, estructurar correctamente las aplicaciones, optimizar consultas a bases de datos y desarrollar APIs REST seguras y eficientes. También doy importancia a la refactorización y a la mejora continua del código existente.\n\nUtilizo pruebas unitarias y funcionales con PHPUnit para detectar errores, validar comportamientos y mejorar la estabilidad de las aplicaciones. Además, trabajo con Git, participo en entornos Agile/Scrum y valoro la comunicación y colaboración con otros miembros del equipo.\n\nIntegro herramientas de inteligencia artificial en mi flujo de trabajo para analizar problemas, explorar alternativas, revisar código, generar pruebas y agilizar tareas de desarrollo. Sin embargo, considero fundamental mantener siempre el criterio técnico, revisar las soluciones propuestas y comprender el código antes de incorporarlo a un proyecto.\n\nMe gusta aprender constantemente, investigar nuevas tecnologías y cuestionar si existe una forma más sencilla o eficiente de resolver un problema. No creo que un desarrollador deba conocer todas las respuestas, pero sí tener la curiosidad y la capacidad de encontrarlas."
   }
 }
